@@ -1,0 +1,14 @@
+E:\C#\Threads\Ping\bin\Debug\net8.0\Ping.exe
+E:\C#\Threads\Ping\bin\Debug\net8.0\Ping.deps.json
+E:\C#\Threads\Ping\bin\Debug\net8.0\Ping.runtimeconfig.json
+E:\C#\Threads\Ping\bin\Debug\net8.0\Ping.dll
+E:\C#\Threads\Ping\bin\Debug\net8.0\Ping.pdb
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.AssemblyInfoInputs.cache
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.AssemblyInfo.cs
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.csproj.CoreCompileInputs.cache
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.dll
+E:\C#\Threads\Ping\obj\Debug\net8.0\refint\Ping.dll
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.pdb
+E:\C#\Threads\Ping\obj\Debug\net8.0\Ping.genruntimeconfig.cache
+E:\C#\Threads\Ping\obj\Debug\net8.0\ref\Ping.dll
